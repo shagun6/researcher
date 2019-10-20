@@ -38,7 +38,7 @@ nav:
 
 * You can setup google analytics, by setting `tracking_id` in `_config.yml`
 
-* To add a profile picture, make sure to give the image tag the class `profile-picture`. In other words,do it like so:
+* To add a profile picture, make sure to give the image tag the class `profile-picture`. You can do like this:
 
 ```html
 <img class="profile-picture" src="sherlock.jpg">
